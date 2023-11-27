@@ -1,0 +1,3 @@
+.searchBar {
+  width: clamp(19rem, calc(40vw + 10rem), 45rem);
+}

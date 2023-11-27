@@ -1,0 +1,9 @@
+.gridContainer {
+  gap: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gridContainer > * {
+  flex: content;
+}
